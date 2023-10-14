@@ -1,0 +1,16 @@
+{
+  "name": "server_agent",
+  "version": "1.0.0",
+  "description": "server agent for reinforcement learning",
+  "main": "y",
+  "scripts": {
+    "run": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.6.1",
+    "socket.io-client": "^4.6.1"
+  }
+}
